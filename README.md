@@ -9,7 +9,7 @@ Hi
 
 ### 🎓 Education
 - **Dankook University** (Mar 2021 – Present)
-  - B.S. in [Mobile Systems Engineering]
+  - B.S. in Mobile Systems Engineering
 
 ---
 
