@@ -28,6 +28,8 @@ Hi
   - *Solved future sales & demographics prediction problems using LLM and Generative AI at KAIST Kim Jaechul Graduate School of AI.*
 - **2025 OIBC (Open Innovation Big data Contest)** | 37th Place | 2025
   - *Developed a solar power generation forecasting model using big data analysis techniques.*
+- **Hateful Memes Detection (Multi-modal AI)** | 9th Place | Dankook Univ. Kaggle Competition | 2024
+  - *Developed a Multi-modal classification model using Computer Vision and NLP to detect hate speech in low-resolution memes.*
 ---
 
 ### 💼 Experience
