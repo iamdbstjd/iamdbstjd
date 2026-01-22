@@ -34,6 +34,5 @@ Hi
 
 ### 💼 Experience
 - **C&I Lab** | Undergraduate Researcher | Sep 2025 – Present
-- **LG Aimers (8th Gen)** | Jan 2026 – Present
 
 ---
