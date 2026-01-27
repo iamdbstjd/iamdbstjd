@@ -23,9 +23,9 @@ Hi
 
 ---
 ### 🏅 Competitions
-- **2025 Electricity Consumption Prediction AI Contest** | Top 13% (113th / 934) | 2025
+- **2025 Electricity Consumption Prediction AI Contest** | Top 13% | 2025
   - *Developed a time-series forecasting model for energy consumption using SMAPE optimization.*
-- **2025 Dongwon x KAIST AI Competition** | (35th / 135) | 2025
+- **2025 Dongwon x KAIST AI Competition** | 35th Place| 2025
   - *Solved future sales & demographics prediction problems using LLM and Generative AI at KAIST Kim Jaechul Graduate School of AI.*
 - **2025 OIBC (Open Innovation Big data Contest)** | 37th Place | 2025
   - *Developed a solar power generation forecasting model using big data analysis techniques.*
