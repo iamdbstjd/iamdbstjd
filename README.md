@@ -35,5 +35,5 @@ Hi
 
 ### 💼 Experience
 - **C&I Lab** | Undergraduate Researcher | Sep 2025 – Present
-
+- **BOAZ 26th** | - | -
 ---
