@@ -1,4 +1,4 @@
-# Hi, I'm Yoonsung Byun
+# Hi, I'm Yunsung Byun
 
 ### 👨‍💻 About Me
 - 🎓 **Undergraduate Student** at **Dankook University** (2021 – Present)
@@ -21,7 +21,9 @@
   - *Selected as one of the top 100 finalists in the AI competency competition sponsored by the Ministry of Science and ICT (MSIT) and Kakao.*
   - [Kakao announcement](http://www.kakaocorp.com/page/detail/11816)
   - [Certificate](<documents/변윤성_AI_top 참가 인증서.pdf>)
-- **ICAC** | Certificate
+- **ICAC 2026 (Inter Campus AI Challenge)** | Certificate | 2026
+  - *Participated in an inter-campus AI utilization challenge for students from Kyung Hee University, Kyonggi University, Dankook University, and Inha University, solving problems under time constraints with AI tools such as Solar, GPT, Gemini, and Claude.*
+  - [Competition site](https://icac.khuda.co.kr/)
   - [Certificate](<documents/ICAC_변윤성.pdf>)
 
 ---
