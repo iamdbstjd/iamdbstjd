@@ -19,11 +19,9 @@
   - [Certificate](https://badge.omnione.net/host/share/list/NDc3NTc=)
 - **AI_TOP_100** | Finalist (Top 100) | Kakao Impact & Brian Impact | Nov 2025
   - *Selected as one of the top 100 finalists in the AI competency competition sponsored by the Ministry of Science and ICT (MSIT) and Kakao.*
-  - [Kakao announcement](http://www.kakaocorp.com/page/detail/11816)
   - [Certificate](<documents/변윤성_AI_top 참가 인증서.pdf>)
 - **ICAC 2026 (Inter Campus AI Challenge)** | Certificate | 2026
   - *Participated in an inter-campus AI utilization challenge for students from Kyung Hee University, Kyonggi University, Dankook University, and Inha University, solving problems*
-  - [Competition site](https://icac.khuda.co.kr/)
   - [Certificate](<documents/ICAC_변윤성.pdf>)
 
 ---
