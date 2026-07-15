@@ -38,5 +38,7 @@
 
 ### 💼 Experience
 - **C&I Lab** | Undergraduate Researcher | Sep 2025 – Present
+  - **Advisor**: Prof. Kyuhaeng Lee
+  - *Conducted research on bias in Large Language Models.*
 
 ---
