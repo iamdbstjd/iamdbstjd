@@ -16,7 +16,7 @@
 ### 🏆 Awards & Honors
 - **2025 Open Source Developer Competition** | Excellence Award | MSIT & NIPA | Nov 2025
   - *Recognized for an outstanding open-source project in the national competition (formerly known as the Open SW Developer Competition).*
-  - [Certificate](https://badge.omnione.net/wallets/YXNzZXJ0aW9uczowMTliMmIxYi1kY2YzLTcyYmEtOTEwMC0xM2UzY2U4ZDVkMGI=)
+  - [Certificate](<documents/OSS_우수작.pdf>)
 - **AI_TOP_100** | Finalist (Top 100) | Kakao Impact & Brian Impact | Nov 2025
   - *Selected as one of the top 100 finalists in the AI competency competition sponsored by the Ministry of Science and ICT (MSIT) and Kakao.*
   - [Certificate](<documents/변윤성_AI_top.pdf>)
