@@ -27,6 +27,8 @@
 ---
 
 ### 🏅 Competitions
+- **Dashcam Video-Based Intentional Accident Analysis AI Competition** | 10th Place | DACON (MOIS & NIA) | 2026
+  - *Developed a computer vision model for analyzing dashcam videos: detecting re-recorded footage and analyzing key accident situations and vehicle movements. Evaluated through code submission.*
 - **2025 Dongwon x KAIST AI Competition** | 35th Place | 2025
   - *Solved future sales & demographics prediction problems using LLM and Generative AI at KAIST Kim Jaechul Graduate School of AI.*
 - **2025 OIBC (Open Innovation Big data Contest)** | 37th Place | 2025
@@ -37,8 +39,11 @@
 ---
 
 ### 💼 Experience
-- **C&I Lab** | Undergraduate Researcher | Sep 2025 – Present
+- **C&I Lab** | Undergraduate Researcher | Sep 2025 – Jun 2026
   - **Advisor**: Prof. Kyuhaeng Lee
-  - *Conducted research on bias in Large Language Models.*
+  - **Research**: LLM-based cognitive status classification (NC / MCI / AD)
+    - Designed prompts and analyzed results for classifying cognitive status from structured patient information (age, medical history, medication, chief complaints, memory- and language-related observations).
+    - Observed that predictions for ambiguous cases concentrated on MCI; combined an instruction to weigh daily-living difficulties with few-shot examples carrying physician-consulted rationales, which changed MCI classification outcomes.
+    - Reviewed literature on bias mitigation and evaluation of LLMs, and presented QLoRA (memory-efficient fine-tuning) at a lab seminar.
 
 ---
